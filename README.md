@@ -1,6 +1,9 @@
 # TS_merge_sort
 Made for Primo Internship skill test
 
+## Info.
+> The "merge" function is implemented as shown in `main.ts` 
+ It is tested with `tests/main.test.ts` using a function to call `merge()` recursively (similar to merge sort algorithm) to sort a shuffled array of integer from 1 to `len` . The resulted array was ensured by checking similarity to the template array.
 ## setup: 
 1. run cli in the following sequence 
    ```
